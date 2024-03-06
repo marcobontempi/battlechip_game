@@ -1,2 +1,2 @@
-# battlechip_game
+# battleship_game
 A terminal battleship game
